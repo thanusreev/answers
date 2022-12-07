@@ -1,0 +1,6 @@
+question no3:
+
+A) i - to find  past commands
+b) To display the hidden directories= Is a
+c) I am comfortable with linux based operating system, becouse its sourse code is easly available, more stable and more secure.
+D) No
